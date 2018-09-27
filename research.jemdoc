@@ -1,2 +1,22 @@
+# jemdoc: nofooter
 # jemdoc: menu{MENU}{research.html}
-Research
+
+= Research
+
+== Working Papers
+  - Thomas W.M. Vossen, Fan You, Dan Zhang, Finite-Horizon Approximate Linear Programs for an Infinite-Horizon Revenue Management Problem
+  - Thomas W.M. Vossen, Fan You, An Approximate Dynamic Programming Approach to Dynamic Matching
+  - Doug Popken, Fan You, Dan Zhang, Nudge Allocation in a Healthcare Analytics Application
+  - Thomas W.M. Vossen, Fan You, Rui Zhang, Approximate Dynamic Programming Approaches for the Multidimensional Knapsack Problem
+
+== Invited Talks
+  - Colorado Data Science Team, Department of Computer Science, University of Colorado Boulder, December 2017
+  - Statistics, Optimization and Machine Learning Seminar, University of Colorado Boulder, October 2017
+  - Algorithmic Economics and Machine Learning Seminar, Department of Computer Science, University of Colorado Boulder, May 2017
+  - Operations Management Workshop, Lees School of Business, University of Colorado Boulder, April 2017
+
+== Conference Presentations
+  - Finite-Horizon Approximate Linear Programs for an Infinite-Horizon Revenue Management Problem
+    -- INFORMS RM Section Conference, Toronto, Canada, June 2018
+    -- INFORMS Optimization Society Conference, Denver, Colorado, March 2018
+    -- INFORMS Annual Meeting, Houston, Texas, October 2017
