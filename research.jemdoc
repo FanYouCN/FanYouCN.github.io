@@ -1,4 +1,5 @@
 # jemdoc: nofooter
+# jemdoc: analytics{UA-126619984-1}
 # jemdoc: menu{MENU}{research.html}
 = Research
 
@@ -8,7 +9,7 @@
   - Doug Popken, Fan You, Dan Zhang, Nudge Allocation in a Healthcare Analytics Application
   - Thomas W.M. Vossen, Fan You, Rui Zhang, Approximate Dynamic Programming Approaches for the Multidimensional Knapsack Problem
 
-== Invited Talks/Seminars
+== Invited Talks
   - Colorado Data Science Team, Department of Computer Science, University of Colorado Boulder, December 2017
   - Statistics, Optimization and Machine Learning Seminar, University of Colorado Boulder, October 2017
   - Algorithmic Economics and Machine Learning Seminar, Department of Computer Science, University of Colorado Boulder, May 2017
