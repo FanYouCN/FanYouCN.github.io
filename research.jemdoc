@@ -3,9 +3,9 @@
 # jemdoc: menu{MENU}{research.html}
 = Research
 
-== Working Papers
+== Work in Progress
   - Thomas W.M. Vossen, Fan You, Dan Zhang, Finite-Horizon Approximate Linear Programs for an Infinite-Horizon Revenue Management Problem
-  - Thomas W.M. Vossen, Fan You, An Approximate Dynamic Programming Approach to Dynamic Matching
+  - Thomas W.M. Vossen, Fan You, An Approximate Dynamic Programming Approach to General Dynamic Matching
   - Doug Popken, Fan You, Dan Zhang, Nudge Allocation in a Healthcare Analytics Application
   - Thomas W.M. Vossen, Fan You, Rui Zhang, Approximate Dynamic Programming Approaches for the Multidimensional Knapsack Problem
 
@@ -20,3 +20,7 @@
     -- INFORMS RM Section Conference, Toronto, Canada, June 2018
     -- INFORMS Optimization Society Conference, Denver, Colorado, March 2018
     -- INFORMS Annual Meeting, Houston, Texas, October 2017
+    -- INFORMS Annual Meeting, Phoenix, Arizona, November 2018
+
+  - An Approximate Dynamic Programming Approach to General Dynamic Matching
+    -- INFORMS Annual Meeting, Phoenix, Arizona, November 2018
