@@ -4,23 +4,25 @@
 = Research
 
 == Work in Progress
-  - Thomas W.M. Vossen, Fan You, Dan Zhang, Finite-Horizon Approximate Linear Programs for an Infinite-Horizon Revenue Management Problem
-  - Thomas W.M. Vossen, Fan You, An Approximate Dynamic Programming Approach to General Dynamic Matching
-  - Doug Popken, Fan You, Dan Zhang, Nudge Allocation in a Healthcare Analytics Application
+  - Thomas W.M. Vossen, Fan You, Dan Zhang, Finite-Horizon Approximate Linear Programs for Infinite-Horizon Markov Decision Processes
+  - Thomas W.M. Vossen, Fan You, An Approximate Dynamic Programming Approach to Dynamic Matching
+  - Thomas W.M. Vossen, Fan You, The Dynamic Matchmaking Problem for Online Multiplayer Gaming
   - Thomas W.M. Vossen, Fan You, Rui Zhang, Approximate Dynamic Programming Approaches for the Multidimensional Knapsack Problem
 
 == Invited Talks
   - Colorado Data Science Team, Department of Computer Science, University of Colorado Boulder, December 2017
   - Statistics, Optimization and Machine Learning Seminar, University of Colorado Boulder, October 2017
   - Algorithmic Economics and Machine Learning Seminar, Department of Computer Science, University of Colorado Boulder, May 2017
-  - Operations Management Workshop, Lees School of Business, University of Colorado Boulder, April 2017
+  - Operations Management Workshop, Leeds School of Business, University of Colorado Boulder, April 2017
 
 == Conference Presentations
   - Finite-Horizon Approximate Linear Programs for an Infinite-Horizon Revenue Management Problem
+    -- INFORMS Annual Meeting, Phoenix, Arizona, November 2018
     -- INFORMS RM Section Conference, Toronto, Canada, June 2018
+    -- Mostly OM Workshop, Beijing, China, June 2018
     -- INFORMS Optimization Society Conference, Denver, Colorado, March 2018
     -- INFORMS Annual Meeting, Houston, Texas, October 2017
-    -- INFORMS Annual Meeting, Phoenix, Arizona, November 2018
 
-  - An Approximate Dynamic Programming Approach to General Dynamic Matching
+  - An Approximate Dynamic Programming Approach to Dynamic Matching
+    -- INFORMS Annual Meeting, Seattle, Washington, October 2019
     -- INFORMS Annual Meeting, Phoenix, Arizona, November 2018
