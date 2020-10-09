@@ -1,0 +1,18 @@
+# jemdoc: nofooter
+# jemdoc: analytics{UA-126619984-1}
+# jemdoc: menu{MENU}{research.html}
+= Industry Experience
+
+== Activision Blizzard - Data Science Intern
+=== Personalized Store Recommendation for Call of Duty: Modern Warfare
+ - Capacitated Multinomial Logit Assortment Optimization 
+
+=== Anti-Cheat for Call of Duty: Warzone
+ - Supervised Cheater Detection
+ - Unspervised Anamoly Detection
+
+=== Skill Metric System for Call of Duty: Warzone
+ - Directed Graph Based Skill System
+
+=== Dedicated Server Usage Optimization for Call of Duty: Modern Warfare
+ - Region Level Latency and Demand Analysis 
