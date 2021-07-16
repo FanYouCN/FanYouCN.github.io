@@ -3,3 +3,4 @@ python2 jemdoc.py index.jemdoc
 python2 jemdoc.py research.jemdoc
 python2 jemdoc.py teaching.jemdoc
 python2 jemdoc.py industry.jemdoc
+python2 jemdoc.py fun.jemdoc

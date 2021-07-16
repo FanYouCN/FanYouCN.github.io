@@ -4,7 +4,7 @@
 = Fan You
 
 ~~~
-{}{img_left}{files/11.png}{Snowboarding Copper Mountain}{150px}{}{}
+{}{img_left}{files/11.png}{profile}{150px}{}{}
 ~~~
 
 Fan You, Ph.D. Candidate in Operations Management\n
@@ -13,7 +13,7 @@ Fan You, Ph.D. Candidate in Operations Management\n
 Advisor: [https://www.colorado.edu/business/thomas-vossen Prof. Thoms Vossen] and      [http://danzhang.com Prof. Dan Zhang] \n
 Email: [Fan.You@Colorado.EDU]\n
 Webpage: [http://fanyou.me http:\/\/www.fanyou.me\/]
-{{<a href="https://www.github.com/fanyoucn"><img src="files/github.png" height="30px"  alt="github" /></a>}}
+# {{<a href="https://www.github.com/fanyoucn"><img src="files/github.png" height="30px"  alt="github" /></a>}}
 
 == Education
   - Ph.D. in Operations Management, [https://colorado.edu University of Colorado Boulder], August 2016 - Present\n
@@ -21,9 +21,8 @@ Webpage: [http://fanyou.me http:\/\/www.fanyou.me\/]
   - B.S. in Industrial Engineering, [http://en.uestc.edu.cn/ University of Electronic Science and Technology of China], September 2009 - July 2013\n
 
 == Industry Experience
-  - Data Science Intern, [https://www.activisionblizzard.com/home Activision Blizzard], March 2020 - Present\n
+  - Data Science Intern, [https://www.activisionblizzard.com/home Activision Blizzard], March 2020 - May 2021
 
 == Research Interest
-  - Approximate Dynamic Programming
-  - Revenue Management and Pricing
-  - Combinatorial Optimization
+  - Methodology: Integer Programming, Approximate Dynamic Programming, Approximation Algorithms
+  - Application: Revenue Management and Pricing, Video Game Analytics
