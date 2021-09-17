@@ -5,14 +5,18 @@
 
 == Activision Blizzard - Data Science Intern
 === Personalized Store Recommendation for Call of Duty: Modern Warfare
- - Capacitated Multinomial Logit Assortment Optimization 
+ - Built a prototypical model for the purchase behaviors of gamers
+ - Formulated an optimization problem for the revenue-maximizing recommendation system
+ - Designed and implemented approximation algorithms for the NP-hard revenue optimization problem
 
 === Anti-Cheat for Call of Duty: Warzone
- - Supervised Cheater Detection
- - Unspervised Anamoly Detection
+ - Worked with large data sets with information of over 50 million active players
+ - Built supervised cheater detection models and unsupervised anomaly detection models using Spark
+ - Responsible for feature engineering, model training and deployment
+ - Collaborated with the security team to periodically ban/shadow-ban cheaters
 
 === Skill Metric System for Call of Duty: Warzone
- - Directed Graph Based Skill System
+ - Proposed a directed graph based skill system for the battle royale mode
 
 === Dedicated Server Usage Optimization for Call of Duty: Modern Warfare
- - Region Level Latency and Demand Analysis 
+ - Ad-hoc analysis of region level latency and demand
