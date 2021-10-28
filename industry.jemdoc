@@ -11,7 +11,7 @@
 
 === Anti-Cheat for Call of Duty: Warzone
  - Worked with large data sets with information of over 50 million active players
- - Built supervised cheater detection models and unsupervised anomaly detection models using Spark
+ - Built supervised cheater detection models (gradient boosting tree) and unsupervised anomaly detection models (autoencoder) using Spark
  - Responsible for feature engineering, model training and deployment
  - Collaborated with the security team to periodically ban/shadow-ban cheaters
 
