@@ -1,6 +1,6 @@
 cd ~/Documents/Github/FanYouCN.github.io
-python2 jemdoc.py index.jemdoc
-python2 jemdoc.py research.jemdoc
-python2 jemdoc.py teaching.jemdoc
-python2 jemdoc.py industry.jemdoc
-python2 jemdoc.py fun.jemdoc
+python jemdoc.py index.jemdoc
+python jemdoc.py research.jemdoc
+python jemdoc.py teaching.jemdoc
+python jemdoc.py industry.jemdoc
+python jemdoc.py fun.jemdoc
