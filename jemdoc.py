@@ -1313,7 +1313,8 @@ def procfile(f):
   gtag('js', new Date());
 
   gtag('config', 'G-V2G98TB4NT');
-</script>''')
+</script>
+''')
 
   if fwtitle:
     out(f.outf, f.conf['fwtitlestart'])
