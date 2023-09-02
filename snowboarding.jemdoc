@@ -1,7 +1,7 @@
-# jemdoc: menu{MENU}{fun.html}
+# jemdoc: menu{MENU}{snowboarding.html}
 # jemdoc: nofooter
 # jemdoc: analytics{UA-126619984-1}
-# jemdoc: title{Fun}
+# jemdoc: title{Snowboarding}
 = Snowboarding
 
 - Over 100 days snowboarding
@@ -10,19 +10,5 @@
 ~~~
 {}{img_left}{files/profile.jpg}{Snowboarding Copper Mountain}{350px}{}{}
 ~~~
-
-= Poker
-
-- I play Texas Hold'em regularly with friends
-- There is "OR" in p*o*ke*r*
-- I won a couple of poker tournaments in Las Vegas!
-~~~
-{}{img_left}{files/tournament_winner.png}{poker1}{350px}{}{}
-~~~
-
-~~~
-{}{img_left}{files/tourney2.jpg}{poker2}{350px}{}{}
-~~~
-
 
 
