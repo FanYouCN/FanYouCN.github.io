@@ -137,7 +137,7 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  
+
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
   
@@ -164,18 +164,18 @@ def standardconf():
   
   [bodystart]
   </head>
+
+
   <body>
-  
-  [analytics]
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V2G98TB4NT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-V2G98TB4NT');
   </script>
-  <script type="text/javascript">
-  try {
-      var pageTracker = _gat._getTracker("|");
-      pageTracker._trackPageview();
-  } catch(err) {}</script>
+
   
   [menustart]
   <table summary="Table for page layout." id="tlayout">
@@ -1245,10 +1245,6 @@ def procfile(f):
           r = re.compile(r'(?<!\\){(.*?)(?<!\\)}', re.M + re.S)
           f.texlines += re.findall(r, b)
 
-        elif b.startswith('analytics'):
-          r = re.compile(r'(?<!\\){(.*?)(?<!\\)}', re.M + re.S)
-          f.analytics = re.findall(r, b)[0]
-
         elif b.startswith('title'):
           r = re.compile(r'(?<!\\){(.*?)(?<!\\)}', re.M + re.S)
           g = re.findall(r, b)
@@ -1310,8 +1306,14 @@ def procfile(f):
   out(f.outf, f.conf['bodystart'])
 
 
-  if f.analytics:
-    hb(f.outf, f.conf['analytics'], f.analytics)
+  out(f.outf, '''<script async src="https://www.googletagmanager.com/gtag/js?id=G-V2G98TB4NT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V2G98TB4NT');
+</script>''')
 
   if fwtitle:
     out(f.outf, f.conf['fwtitlestart'])
