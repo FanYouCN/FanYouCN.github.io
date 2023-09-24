@@ -8,4 +8,4 @@ python jemdoc.py racing.jemdoc
 
 
 # jemdoc relies on python2
-# run conda activate py27, then bash run.sh
+# run conda activate py2, then bash run.sh
